@@ -1,11 +1,16 @@
 .page {
+<<<<<<< HEAD
   font-family: "Inter", "Arial", sans-serif;
+=======
+  font-family: Inter, Arial, sans-serif;
+>>>>>>> 0c7a9710be8a2decacd6c0ccf86b8a4b5a736c67
   font-size: 16px;
   line-height: 20px;
   min-width: 1100px;
   max-width: 1600px;
   margin: 0 auto;
 }
+<<<<<<< HEAD
 
 .header {
   background-image: url(/images/background_header.svg);
@@ -134,3 +139,5 @@
   justify-content: space-between;
   font-weight: 500;
 }
+=======
+>>>>>>> 0c7a9710be8a2decacd6c0ccf86b8a4b5a736c67
